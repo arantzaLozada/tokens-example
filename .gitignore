@@ -1,0 +1,11 @@
+node_modules/
+public/
+dist/
+npm-debug.log
+.idea/
+.vscode/
+.env
+.env.test
+.tern-port
+.DS_Store
+.npmrc
