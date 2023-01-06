@@ -6,7 +6,7 @@
     }
   },
   "dark-800": {
-    "value": "#24242a",
+    "value": "#1A1A1C",
     "type": "color"
   },
   "blue-500": {
@@ -156,5 +156,9 @@
   "biggest": {
     "value": "96px",
     "type": "spacing"
+  },
+  "color-teal": {
+    "value": "#007C7F",
+    "type": "color"
   }
 }

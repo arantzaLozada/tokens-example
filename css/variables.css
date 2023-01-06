@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Mon, 17 Oct 2022 19:35:37 GMT
+ * Generated on Thu, 05 Jan 2023 20:19:06 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --dark-800: #24242a;
+  --dark-800: #1A1A1C;
   --blue-500: #7C4FFF;
   --text-body: #A2A2A5;
   --text-link: #c2c2c5;
@@ -39,4 +39,5 @@
   --transparent-8: #ffffff14;
   --big: 56px;
   --biggest: 96px;
+  --color-teal: #007C7F;
 }
